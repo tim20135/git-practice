@@ -9,3 +9,6 @@ def greet(name):
 
 def tempFarewell():
     pass
+
+def multiply(a, b):
+    return a * b
