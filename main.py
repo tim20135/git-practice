@@ -6,3 +6,6 @@ if __name__ == "__main__":
 
 def greet(name):
     return f"Hello, {name}!"
+
+def tempFarewell():
+    pass
